@@ -1,0 +1,6 @@
+{
+  "Name": "Sorting Lists",
+  "ProjectType": "Process",
+  "Description": "Exercise from UiPath Automation Developer Associate Learning Plan to practice Lists.",
+  "MainFile": "Main.xaml"
+}
